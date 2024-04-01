@@ -4,7 +4,7 @@ So, picture this: I stumbled upon this treasure trove of data on Kaggle, packed 
 
 And thus, the adventure began. 💼
 
-First stop: extracting data. I got my hands on this nifty code snippet here](https://gist.github.com/Christymacarena/399c40828e1041d0188ac103a8c19564). Trust me, it's worth its weight in gold!
+First stop: extracting data. I got my hands on this nifty code snippet [here](https://gist.github.com/Christymacarena/399c40828e1041d0188ac103a8c19564). Trust me, it's worth its weight in gold!
 
 Next, I ventured into the realm of setting up the perfect environment. Out with Windows, in with Linux! After installing Linux and diving headfirst into the vast ocean of Apache Airflow documentation, I even indulged in not one, but TWO LinkedIn Learning video courses. 🤓
 
