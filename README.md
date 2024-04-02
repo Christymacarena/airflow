@@ -1,5 +1,5 @@
 ## sudo install apache-airflow
-<img src="https://github.com/Christymacarena/airflow/blob/main/running%20processes.jpg" width="800">
+<img src="https://github.com/Christymacarena/airflow/blob/main/airflow%20diedie.jpg" width="800">
 I love pipelines and discovering new knowledge! So here is how I run ETL pipeline on Airflow from scretch.
 
 Three days were spent on understanding dependencies with Python script versions - not fun at all, but really useful. Now I configure almost everything through the Ubuntu terminal. How did I ever live without this?!
@@ -17,5 +17,6 @@ But it's not the same to code for dashboards or for data engineering processes. 
 Next, I ventured into the realm of setting up the virtual environments. Diving headfirst into the vast ocean of Apache Airflow documentation, I even indulged in not one, but 2 LinkedIn Learning video courses. And after three attempts, here we go with DAG [data_pipeline3.py](data_pipeline3.ipynb).
 
 Airflow now gracefully glides on port 8080. I'll keep you informed :)
+<img src="https://github.com/Christymacarena/airflow/blob/main/running%20processes.jpg" width="800">
 From zero to hero, small steps to data engineering. 💻
 Stay tuned for more tales from the data trenches!
