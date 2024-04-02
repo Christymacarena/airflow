@@ -7,7 +7,7 @@ So, having that huge database.sqlite from Kaggle (football stat research), packe
 
 First stop: extracting data. I got my hands on this nifty code snippet [here](https://gist.github.com/Christymacarena/399c40828e1041d0188ac103a8c19564). Usually, when I'm at home, I code with Google Colab ~~because there are kittens~~ because it visualizes really nice graphs and plots fast'n'easy. Check out the entropy I built to see which league is more predictable via values of odds coefficients provided ['B365H','B365D','B365A'].
 ## entropy league in football
-![leagues entropy](entropy_line_plot.png)
+enthropy line plot.png
 Or this proof-on-data of theory that all teams play home better than away.
 
 ![Teams really win home games more often then away?](home away play.png)
