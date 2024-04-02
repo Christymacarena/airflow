@@ -18,7 +18,7 @@ Next, I ventured into the realm of setting up the virtual environments. Diving h
 
 Airflow now gracefully glides on port 8080. I'll keep you informed :)
 
-![running](running processes.jpg)
+![running](running_processes.jpg)
 
 From zero to hero, small steps to data engineering. 💻
 
